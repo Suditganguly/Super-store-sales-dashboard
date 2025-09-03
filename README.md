@@ -112,4 +112,4 @@ This dashboard gave management a **360° view** of their business by showing:
 
 As a data analyst, I identified profitability gaps, regional weaknesses, and customer behavior shifts — and recommended **pricing optimization, targeted regional marketing, digital adoption, and forecast-based planning**.
 
-Dashboard Review:()
+Dashboard Review:( https://github.com/Suditganguly/Super-store-sales-dashboard/blob/main/Sales%20Dashboard%20pg1.png , https://github.com/Suditganguly/Super-store-sales-dashboard/blob/main/Sales%20Dashboard%20pg2.png )
