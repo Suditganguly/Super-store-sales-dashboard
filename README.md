@@ -60,8 +60,8 @@ The management wanted answers to three key questions:
   * Corporate and Home Office followed.
 * **Sales by Payment Mode:**
 
-  * Digital transactions dominated (Online 43%, Card 35%).
-  * Cash on Delivery (22%) remained significant, indicating potential efficiency issues.
+  * Digital transactions dominated (Online 35%, Card 22%).
+  * Cash on Delivery (43%) remained significant, indicating potential efficiency issues.
 
 
  5. Trend & Forecasting
